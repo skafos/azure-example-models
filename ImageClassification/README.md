@@ -14,7 +14,7 @@ Image classification is the task of assigning a label to an image (classifying a
 images labeled as such. For example, if a model was trained on dogs and cats, and it is shown a plant, it will
  identify that plant as either a dog or cat. To build an image classification model that identifies plants or other
  types of objects, you would need to retrain the model, using labeled images of the type you want.
--  **Model Runtime**: The out-of-the box model takes a long time to train on CPU. Definitely take advantage of Azure Notebook Instances that serve up GPUs.
+-  **Model Runtime**: The out-of-the box model takes a long time to train on CPU. At this moment, Azure doesn't support GPU training on notebook instances. So if you need that, please check out some of these [Google Colab examples](https://github.com/skafos/colab-example-models).
 -  **Model Size**: In addition to the tips above, try using the `squeezenet_v1.1` model in the
 `turicreate.image_classifier.create` function if you are worried about the size of the resulting model. This may also impact the classification accuracy of the model.
 
