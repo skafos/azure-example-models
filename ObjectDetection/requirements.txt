@@ -1,0 +1,2 @@
+turicreate==5.4
+skafos>=0.2.0
