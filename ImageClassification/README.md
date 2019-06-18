@@ -10,6 +10,7 @@ Image classification is the task of assigning a label to an image (classifying a
  Trains a model to classify a plant image as a type of poison ivy (or not).
 
 ## Tips and "Gotchas"
+-  **Azure Notebooks**: While Notebooks are in `Preview` mode (beta), some features might be buggy or not available. If you are having trouble with dependencies in your JLab environment. Try waiting a few minutes, restarting the Python 3.6 kernel, and trying again.
 -  **Training Data**: In order for an image classifier to identify a particular category, it must have trained on
 images labeled as such. For example, if a model was trained on dogs and cats, and it is shown a plant, it will
  identify that plant as either a dog or cat. To build an image classification model that identifies plants or other

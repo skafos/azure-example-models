@@ -10,6 +10,7 @@ Text classification is the task of assigning a label to some bit of text. Here
  Trains a model to classify user text into one of 20 different topics.
 
 ## Tips and "Gotchas"
+ -  **Azure Notebooks**: While Notebooks are in `Preview` mode (beta), some features might be buggy or not available. If you are having trouble with dependencies in your JLab environment. Try waiting a few minutes, restarting the Python 3.6 kernel, and trying again.
  -  **Common Text Classification Tasks**:
    - ***Sentiment Classification***: How positive or negative is a piece of text? Typically trained with text data
      representing user reviews and respective ratings on a scale 1-5. The starter model in this repo contains a basic sentiment classifier trained on yelp reviews.
