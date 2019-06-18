@@ -21,18 +21,21 @@ From there you can investigate and "clone" the project to your own Microsoft Azu
 Each one of these example models links with an example app on the Skafos platform. You can easily deliver these models to iOS apps over-the-air by creating an account and heading over to https://dashboard.skafos.ai.
 
 ### Text Classification
+<a href="https://notebooks.azure.com/Skafos/projects/text-classification-examples">    <img src="https://notebooks.azure.com/launch.svg" /></a>
 Classify chunks of user text into different categories.
 - [**Sentiment Classifier**](TextClassification/sentiment_classifier.ipynb)
 - [**Spam or Ham**](TextClassification/spam_or_ham.ipynb)
 - [**Topic Classifier**](TextClassification/topic_classifier.ipynb)
 
 ### Image Classification
+<a href="https://notebooks.azure.com/Skafos/projects/image-classification-examples">    <img src="https://notebooks.azure.com/launch.svg" /></a>
 Classify images into different categories.
 - [**Dogs and Cats**](ImageClassification/dogs_and_cats.ipynb)
 - [**More Pets**](ImageClassification/more_pets.ipynb)
 - [**Poison Ivy**](ImageClassification/poison_ivy.ipynb)
 
 ### Object Detection
+<a href="https://notebooks.azure.com/Skafos/projects/object-detection-examples">    <img src="https://notebooks.azure.com/launch.svg" /></a>
 Identify objects within images or video.
 - [**People, Bikes, and Cars**](ObjectDetection/people_bikes_cars.ipynb)
 - [**Coffee, Pens, and Computers**](ObjectDetection/coffee_pen_computer.ipynb)

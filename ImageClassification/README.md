@@ -1,4 +1,6 @@
 # Image Classification
+<a href="https://notebooks.azure.com/Skafos/projects/image-classification-examples">    <img src="https://notebooks.azure.com/launch.svg" /></a>
+
 Image classification is the task of assigning a label to an image (classifying an image as one thing or another). Here we start you off with a basic example:
 
  - **Dogs and Cats**:
