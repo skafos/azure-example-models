@@ -7,6 +7,7 @@ Object detection is the task of locating and identifying objects within images. 
  - **Couches, Chairs, Tables and Beds**: Trains a model to detect and classify objects in images of couches, chairs, tables and beds.
 
 ## Tips and "Gotchas"
+-  **Azure Notebooks**: While Notebooks are in `Preview` mode (beta), some features might be buggy or not available. If you are having trouble with dependencies in your JLab environment. Try waiting a few minutes, restarting the Python 3.6 kernel, and trying again.
 -  **Training Data**: In order for an object detection model to identify a particular object, it must have seen
 other objects with the same label. To build an object detection model that identifies what you want, you would need
 to retrain the model, using bounded and labeled images of the type you want.
