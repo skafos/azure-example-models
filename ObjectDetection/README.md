@@ -1,4 +1,6 @@
 # Object Detection
+<a href="https://notebooks.azure.com/Skafos/projects/object-detection-examples">    <img src="https://notebooks.azure.com/launch.svg" /></a>
+
 Object detection is the task of locating and identifying objects within images. Here we start you off with a basic
  example:
 

@@ -1,4 +1,6 @@
 # Text Classification
+<a href="https://notebooks.azure.com/Skafos/projects/text-classification-examples">    <img src="https://notebooks.azure.com/launch.svg" /></a>
+
 Text classification is the task of assigning a label to some bit of text. Here
  we start you off with a basic example:
 
